@@ -6,7 +6,29 @@ html {
   background: #ffefef;
 }
 
+body {
+  max-width: 80%;
+  align-items: center;
+  margin: 0 auto;
+}
+
 h1,
 h2 {
   font-family: 'Playfair Display', serif;
+}
+
+.header {
+  text-align: center;
+}
+
+.nabidka {
+  background: #fff;
+}
+
+.dish {
+  max-width: 200px;
+}
+
+.dishes {
+  margin: 0 auto;
 }
